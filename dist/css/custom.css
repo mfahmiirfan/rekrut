@@ -1,3 +1,9 @@
 .hr-text-space-custom {
     margin: 1rem 0;
 }
+
+.alert-custom {
+    background: #d1e7dd;
+    border: 1px solid #badbcc;
+    box-shadow: none;
+}
