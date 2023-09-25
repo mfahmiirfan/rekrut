@@ -1,3 +1,17 @@
 .hr-text-space-custom {
     margin: 1rem 0;
 }
+
+.col-form-custom{
+    padding-top: calc(0.4375rem + var(--tblr-border-width));
+  padding-bottom: calc(0.4375rem + var(--tblr-border-width));
+}
+
+.accordion-custom .accordion-item{
+  border: none;
+  border-radius: 0;
+  border-bottom: var(--tblr-accordion-border-width) solid var(--tblr-accordion-border-color);;
+}
+.accordion-custom .accordion-button{
+  font-size: 1.25rem;
+}
