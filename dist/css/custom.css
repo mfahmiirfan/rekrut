@@ -6,6 +6,7 @@
     background: #d1e7dd;
     border: 1px solid #badbcc;
     box-shadow: none;
+}
 .col-form-custom{
     padding-top: calc(0.4375rem + var(--tblr-border-width));
   padding-bottom: calc(0.4375rem + var(--tblr-border-width));
