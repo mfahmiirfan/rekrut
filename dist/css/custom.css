@@ -20,3 +20,11 @@
 .accordion-custom .accordion-button{
   font-size: 1.25rem;
 }
+@media (min-width: 576px) { 
+  .col-form-label.custom{
+    width: 12.5% !important;
+  }
+  .col-md-6.custom{
+    flex: 1 !important;
+  }
+}
